@@ -1,0 +1,29 @@
+texto,rotulo,conjunto
+Sua conta será bloqueada hoje. Clique no link e informe sua senha imediatamente.,suspeita,referencia
+Você ganhou um prêmio! Pague uma taxa para liberar seu dinheiro.,suspeita,referencia
+Sou do banco. Envie o código de verificação recebido por SMS.,suspeita,referencia
+Seu pacote está retido. Acesse o link e pague a taxa urgente.,suspeita,referencia
+Seu CPF foi suspenso. Confirme seus dados bancários agora.,suspeita,referencia
+Transfira via PIX para receber o reembolso que foi aprovado.,suspeita,referencia
+Promoção exclusiva: informe o número do cartão e CVV para participar.,suspeita,referencia
+Alerta: atualize sua senha neste endereço desconhecido ou perderá acesso.,suspeita,referencia
+"Sua conta está em risco, envie sua senha para nosso atendente.",suspeita,referencia
+Seu benefício será cancelado. Faça pagamento imediato pelo link.,suspeita,referencia
+A reunião de equipe será amanhã às 14 horas na sala 3.,legitima,referencia
+Segue o resumo da aula e os exercícios para estudar.,legitima,referencia
+"Olá, podemos confirmar nosso encontro de sábado às dez?",legitima,referencia
+A biblioteca estará fechada durante o feriado municipal.,legitima,referencia
+Seu pedido foi entregue na portaria do prédio.,legitima,referencia
+O professor publicou as notas no ambiente virtual da turma.,legitima,referencia
+Lembrete: sua consulta está agendada para quinta-feira.,legitima,referencia
+A apresentação do projeto começará às 19 horas.,legitima,referencia
+Obrigado por participar do evento de tecnologia ontem.,legitima,referencia
+Envio em anexo o cronograma de atividades da semana.,legitima,referencia
+URGENTE! Faça um PIX para desbloquear sua encomenda.,suspeita,teste
+Clique aqui e digite seu código SMS para evitar o bloqueio.,suspeita,teste
+"Parabéns! Para sacar seu prêmio, informe seu cartão de crédito.",suspeita,teste
+Sua restituição depende de uma taxa antecipada. Pague agora.,suspeita,teste
+O laboratório de informática estará aberto após o almoço.,legitima,teste
+A entrega do relatório foi adiada para sexta-feira.,legitima,teste
+Vamos revisar os slides antes da apresentação de hoje.,legitima,teste
+O material complementar está disponível na plataforma da escola.,legitima,teste
